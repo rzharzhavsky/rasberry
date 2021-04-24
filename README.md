@@ -1,2 +1,2 @@
-# rasbery
+# rasberry
 Projects done within rpi
